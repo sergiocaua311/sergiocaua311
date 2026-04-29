@@ -1,10 +1,17 @@
 <div align="center">
 
-<!-- Banner animado -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:555555,100:000000&height=200&section=header&text=S%C3%A9rgio%20Cau%C3%A3&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=58&descSize=18&descColor=8b949e&animation=fadeIn" />
 
 </div>
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/sérgio-cauã-584608220) [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github)](https://github.com/sergiocaua311) [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail)](mailto:sergiocaua311@gmail.com)
+
+</div>
+
+---
 <div align="center">
 
 </div>
@@ -19,7 +26,8 @@ class Sergin:
         self.currently   = "Explorando LLMs e MLOps"
 ```
 --- 
-### **Languages**
+### **Skills**
+**LANGUAGES**
 <div align="left">
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python) ![R](https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=r) ![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql)
@@ -32,7 +40,7 @@ class Sergin:
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn) ![Keras](https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras)
 
 
-**`DATA ANALYSIS & VISUALIZATION`**
+**DATA ANALYSIS & VISUALIZATION**
 <div align="left">
 
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy) ![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=plotly) 
@@ -64,41 +72,22 @@ class Sergin:
 
 ---
 
-### Statistics
+### **Statistics**
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sergiocaua311&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=8b949e&border_color=ffffff&hide_border=false&count_private=true" />
+<img height="122" src="https://github-readme-stats.vercel.app/api?username=sergiocaua311&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=8b949e&border_color=ffffff&hide_border=false&count_private=true include_all_commits=true" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocaua311&layout=compact&theme=github_dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e&border_color=21262d&hide_border=false&langs_count=6" />
+<img width="40.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=sergiocaua311&theme=github-dark-blue&background=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=8b949e&dates=8b949e&border=21262d" />
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sergiocaua311&theme=github-dark-blue&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=8b949e&dates=8b949e&border=21262d" />
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=sergiocaua311&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true" />
 
 </div>
 
-<div align="center">
-
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=sergiocaua311&bg_color=0d1117&color=ffffff&line=00b4d8&point=ffffff&area=true&area_color=00b4d8&hide_border=true" />
-
-</div>
-
----
-
-## Contact
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/sérgio-cauã-584608220)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github)](https://github.com/sergiocaua311)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail)](mailto:sergiocaua311@gmail.com)
-
-</div>
-
----
 
 <div align="center">
 
