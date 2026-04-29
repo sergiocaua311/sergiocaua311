@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0d1117&height=200&section=header&text=Sérgio%20Cauã&fontSize=50&fontColor=00b4d8&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=58&descSize=18&descColor=8b949e&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:555555,100:000000&height=200&section=header&text=S%C3%A9rgio%20Cau%C3%A3&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=58&descSize=18&descColor=8b949e&animation=fadeIn" />
 
 </div>
 
@@ -9,81 +9,69 @@
 
 </div>
 
----
-
-## Sobre mim
-
 ```python
-class sergin:
+class Sergin:
     def __init__(self):
         self.name        = "Sérgio Cauã"
         self.role        = "Data Scientist & ML Engineer"
         self.location    = "João Pessoa, PB 🇧🇷"
-        self.focus       = ["Machine Learning", "Data Analysis", "Deep Learning"]
+        self.focus       = ["ML","Computational Intelligence", "Data Analysis"]
         self.currently   = "Explorando LLMs e MLOps"
-
-    def say_hello(self):
-        print("Olá! Seja bem-vindo ao meu perfil 👋")
-
-me = sergin()
-me.say_hello()
 ```
+--- 
+
+### Skills
+
+**Languages**
+<div align="left">
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python)
+![R](https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=r)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql)
+
+</div>
+
+**MACHINE LEARNING & AI**
+<div align="left">
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn)
+![Keras](https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras)
+
+
+**DATA ANALYSIS & VISUALIZATION**
+<div align="left">
+
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=plotly)
+![Seaborn](https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=python)
+![Plotly](https://img.shields.io/badge/Plotly-0d1117?style=for-the-badge&logo=plotly)
+
+</div>
+
+**DATABASES**
+<div align="left">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql)
+
+</div>
+
+**BIG DATA**
+`Spark`
+
+**MLOPS & CLOUD**
+<div align="left">
+
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter)
+
+</div>
 
 ---
 
-## Skills
-
-### Linguagens
-<div align="left">
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00b4d8)
-![R](https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=r&logoColor=00b4d8)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00b4d8)
-
-</div>
-
-### Machine Learning & IA
-<div align="left">
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=00b4d8)
-![Keras](https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras&logoColor=00b4d8)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=00b4d8)
-
-</div>
-
-### Data Analysis & Visualização
-<div align="left">
-
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=00b4d8)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=00b4d8)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=plotly&logoColor=00b4d8)
-![Seaborn](https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=python&logoColor=00b4d8)
-![Plotly](https://img.shields.io/badge/Plotly-0d1117?style=for-the-badge&logo=plotly&logoColor=00b4d8)
-
-</div>
-
-### 🗄️ Bancos de Dados
-<div align="left">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00b4d8)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00b4d8)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00b4d8)
-
-</div>
-
-### ☁️ MLOps & Cloud
-<div align="left">
-
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00b4d8)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00b4d8)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=00b4d8)
-![MLflow](https://img.shields.io/badge/MLflow-0d1117?style=for-the-badge&logo=mlflow&logoColor=00b4d8)
-
-</div>
-
----
-
-## 📊 Estatísticas
+### Statistics
 
 <div align="center">
 
@@ -107,13 +95,13 @@ me.say_hello()
 
 ---
 
-## 📬 Contato
+## Contact
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00b4d8)](https://linkedin.com/in/sergiocaua311)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00b4d8)](www.linkedin.com/in/sérgio-cauã-584608220)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8)](https://github.com/sergiocaua311)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00b4d8)](mailto:seuemail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00b4d8)](mailto:sergiocaua311@gmail.com)
 
 </div>
 
