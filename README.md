@@ -19,53 +19,46 @@ class Sergin:
         self.currently   = "Explorando LLMs e MLOps"
 ```
 --- 
-
-### Skills
-
-**Languages**
+### **Languages**
 <div align="left">
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python)
-![R](https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=r)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python) ![R](https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=r) ![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql)
 
 </div>
 
 **MACHINE LEARNING & AI**
 <div align="left">
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn)
-![Keras](https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn) ![Keras](https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras)
 
 
-**DATA ANALYSIS & VISUALIZATION**
+**`DATA ANALYSIS & VISUALIZATION`**
 <div align="left">
 
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=plotly)
-![Seaborn](https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=python)
-![Plotly](https://img.shields.io/badge/Plotly-0d1117?style=for-the-badge&logo=plotly)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy) ![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=plotly) 
+![Seaborn](https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=python) ![Plotly](https://img.shields.io/badge/Plotly-0d1117?style=for-the-badge&logo=plotly)
 
 </div>
 
 **DATABASES**
 <div align="left">
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql) ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql)
+
 
 </div>
 
 **BIG DATA**
-`Spark`
+<div align="left">
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-0d1117?style=for-the-badge&logo=apachespark)
+
+</div>
 
 **MLOPS & CLOUD**
 <div align="left">
 
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker) ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git) ![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter) ![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
 </div>
 
@@ -75,9 +68,9 @@ class Sergin:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sergiocaua311&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=8b949e&border_color=21262d&hide_border=false&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=sergiocaua311&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=8b949e&border_color=ffffff&hide_border=false&count_private=true" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocaua311&layout=compact&theme=github_dark&bg_color=0d1117&title_color=00b4d8&text_color=8b949e&border_color=21262d&hide_border=false&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocaua311&layout=compact&theme=github_dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e&border_color=21262d&hide_border=false&langs_count=6" />
 
 </div>
 
@@ -89,7 +82,7 @@ class Sergin:
 
 <div align="center">
 
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=sergiocaua311&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&area=true&area_color=00b4d8&hide_border=true" />
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=sergiocaua311&bg_color=0d1117&color=ffffff&line=00b4d8&point=ffffff&area=true&area_color=00b4d8&hide_border=true" />
 
 </div>
 
@@ -99,9 +92,9 @@ class Sergin:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00b4d8)](www.linkedin.com/in/sérgio-cauã-584608220)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8)](https://github.com/sergiocaua311)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00b4d8)](mailto:sergiocaua311@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/sérgio-cauã-584608220)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github)](https://github.com/sergiocaua311)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail)](mailto:sergiocaua311@gmail.com)
 
 </div>
 
@@ -109,6 +102,6 @@ class Sergin:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0d1117&height=100&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:555555,100:000000&height=100&section=footer&animation=fadeIn" />
 
 </div>
