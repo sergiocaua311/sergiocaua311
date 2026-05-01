@@ -76,12 +76,6 @@ class Sergin:
 
 <div align="center">
 
-<img height="300" src="https://github-readme-stats.vercel.app/api?username=sergiocaua311&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=8b949e&border_color=ffffff&hide_border=false&count_private=true&include_all_commits=true" />
-
-</div>
-
-<div align="center">
-
 <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=sergiocaua311&theme=github-dark-blue&background=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=8b949e&dates=8b949e&border=21262d" />
 
 </div>
