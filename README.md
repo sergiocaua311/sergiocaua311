@@ -22,7 +22,7 @@ class Sergin:
         self.name        = "Sérgio Cauã"
         self.role        = "Data Scientist & ML Engineer"
         self.location    = "João Pessoa, PB 🇧🇷"
-        self.focus       = ["ML","Computational Intelligence", "Data Analysis"]
+        self.focus       = ["ML", "Data Analysis"]
         self.currently   = "Explorando LLMs e MLOps"
 ```
 --- 
